@@ -11,4 +11,4 @@ Prevents accidental reload/closing of temporary ChatGPT chats by showing a confi
 - Shows a browser confirmation prompt if you try to close or refresh the page.
 
 ## Report issues
-Open an issue: https://github.com/Xryndelub/chatgpt-temp-chat-guard/issues
+[Open an issue](https://github.com/xryndelub/chatgpt-temp-chat-guard/issues)
